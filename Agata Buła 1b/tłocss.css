@@ -1,0 +1,113 @@
+body {
+	background-image: url('middle.jpeg');
+	text-shadow: 1px 1px 10px black;
+
+}
+
+h2{ 
+
+color: #f9f2ec;
+}
+
+h3{
+
+	color: #f9f2ec;
+}
+
+
+
+h1 {
+color: #f9f2ec;
+}
+#kontener{
+width: 960px;
+margin: 0 auto;
+border: 6px solid black;
+}
+
+
+
+#naglowek{
+
+margin: 10px;
+width: 936px;
+height: 200px;
+border: 2px solid black;
+}
+
+.kolumna1{
+float: left;
+
+width: 20%;
+height: 686px;
+border: 6px solid black;
+}
+.kolumna2{
+float: left;
+
+width: 60%;
+height: 700px;
+ background: rgba(49, 16, 13, 0.45);
+border: 3px solid black;
+
+transition: background-color 1s linear;
+
+}
+background-color: transparent; 
+
+
+
+}
+
+.kolumna3{
+float: right;
+
+width: 20%;
+height: 700px;
+
+
+}
+
+#clear{
+clear: both;
+}
+
+#stopka{
+margin: 10px;
+width: 936px;
+height: 150px;
+border: 2px solid black;
+}
+
+	
+#prawastrona{
+color: red;
+float: right;
+font-size: 150%;
+font-family: "Times New Roman", Times, serif;
+
+text-shadow: 1px 1px 10px white;
+}
+#table{
+    border-style: outset;
+    border-color: burlywood;
+    margin-left: auto;
+    margin-right: auto;
+    color: #ffcc99
+
+}
+
+#divostatni{
+margin: 10px;
+width: 936px;
+height: 420px;
+border: 2px solid black;
+}
+
+#tekst{
+color: rgba(255, 255, 255, 1);
+font-size: 121%;
+font-family: "Times New Roman", Times, serif;
+}
+
+
